@@ -1,0 +1,48 @@
+- profile:
+  initials: NN
+  name: Nilo Cara
+  profession: Front-end Software Engineer
+  image: images/profile.jpg
+  location: Johannesburg, South Africa
+  relocation: true
+  company: Freelancing
+  for_hire: true
+  focus: Software Engineering
+  focus_url: https://frontend.co.za
+  about: |
+    I'm a frontend software engineer with over 15 years of experience in the Technology space. I have worked in different roles from Technical to Management, having the pleasure of working with large enterprises such as Standard Bank, Investec, Multichoice(DSTV), Medihelp Medical Scheme, Tracker SA, VOX, Sun International, Southern Sun.
+
+    Making things happen is your business as a programmer. This means that you’ll take care of the technical details, understand what to do, and get it done in a timely fashion. But being a great code writer doesn’t mean that you don’t have to be able to step back and look at the big picture - sometimes it can be difficult! That’s why we want you to work with other people who will provide more insight into the how your program works under the hood in order for us to better understand how our system works in its entirety - which will benefit everyone.
+  skills:
+    - JavaScript (ES6)
+    - Python
+    - TypeScript
+    - R
+    - PHP
+    - CSS/Sass
+    - GraphQL
+    - HTML/CSS
+
+  libfra:
+    - jQuery
+    - React
+    - Gatsby
+    - Vue
+    - Node.js
+    - Codeigniter
+ 
+  tools:
+    - Webflow
+    - OxygenBuilder
+    - Wordpress
+    - HTML/CSS
+    - WooCommerce
+    - VSCode
+    - Elementor
+    - Amazon Web Services
+    
+  budget:
+    currency: R
+    min: 5
+    max: 100
+    default: 10
