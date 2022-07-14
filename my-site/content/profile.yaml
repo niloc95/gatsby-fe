@@ -1,7 +1,7 @@
 - profile:
   initials: NN
   name: Nilo Cara
-  profession: Front-end Software Engineer
+  profession: Frontend Software Engineer
   image: images/profile.jpg
   location: Johannesburg, South Africa
   relocation: true
