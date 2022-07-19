@@ -1,17 +1,33 @@
-- name: Growthpoint Properties 
+- name: Growthpoint Properties
+  date: 1 April 2022
   url: https://growthpoint.co.za/
-  description: Growthpoint Properties, the largest South African primary REIT listed on the JSE, is an international property company with assets in South Africa
-  status: in progress
+  description: 
+    Growthpoint Properties, the largest South African primary REIT listed on the JSE, is an international property company with assets in South Africa.
+
+    WordPress back-end development calling API's for the market sectors
+  status: live
   tags:
     - JavaScript
     - WordPress
     - ElementorPro
     - Amazon Web Services
-  icon: github
-  image: images/benefits-1.webp
+  icon: 
+  image: images/Growthpoint_450.png
 
-- name: Example 2
-  url: https://github.com
+- name: Ascendis Health - Bettaway
+  date: Feb 2022
+  url: https://ascendishealth.com
+  description: Ascendis Health is a health and wellness company founded in 2008 and listed in the healthcare sector of the JSE in November 2013. In 2015, the Group embarked on an international growth strategy and acquired four businesses in Europe, Farmalider in Spain (2015), Remedica in Cyprus (2016), Scitec in Hungary (2016) and Sunwave Pharma in Romania (2017). Today Ascendis Health has a global reach with well-known brands and products sold to more than 120 countries across all continents.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+  icon: website
+  image: images/Bettaway.png     
+
+- name: Stanlib South African asset Manager
+  date: August 2022
+  url: https://stanlib.com/
   description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
   status: live
   tags:
@@ -20,8 +36,58 @@
   icon: website
   image: images/project.jpg
 
-- name: Example 3
-  url: https://github.com
+- name: Stanlib South African asset Manager
+  url: https://stanlib.com/
+  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+  icon: website
+  image: images/project.jpg
+
+- name: Stanlib South African asset Manager
+  url: https://stanlib.com/
+  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+  icon: website
+  image: images/Dynamic.png
+
+- name: Stanlib South African asset Manager
+  url: https://stanlib.com/
+  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+  icon: website
+  image: images/project.jpg
+
+- name: Stanlib South African asset Manager
+  url: https://stanlib.com/
+  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+  icon: website
+  image: images/project.jpg
+
+- name: Stanlib South African asset Manager
+  url: https://stanlib.com/
+  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+  icon: website
+  image: images/project.jpg
+
+- name: Stanlib South African asset Manager
+  url: https://stanlib.com/
   description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
   status: live
   tags:
